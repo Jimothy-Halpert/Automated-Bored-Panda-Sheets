@@ -6,4 +6,4 @@ When the previous step has been executed, we proceed to set up the task schedule
 
 1. Type "Task Scheduler" in the search bar and press enter
 2. Find "Create a new task" on the right and click on it
-![Alt text](https://github.com/Jimothy-Halpert/Automated-Bored-Panda-Sheets/main/1.png "open a new task")
+![image](https://github.com/Jimothy-Halpert/Automated-Bored-Panda-Sheets/main/1.png "open a new task")
