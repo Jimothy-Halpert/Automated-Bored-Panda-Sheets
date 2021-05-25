@@ -6,4 +6,4 @@ When the previous step has been executed, we proceed to set up the task schedule
 
 1. Type "Task Scheduler" in the search bar and press enter
 2. Find "Create a new task" on the right and click on it
-![Alt text](1.png?raw=true "open a new task")
+![Alt text](https://github.com/Jimothy-Halpert/Automated/blob/main/1.png?raw=true "open a new task")
